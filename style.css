@@ -59,6 +59,9 @@ header .content {
 header .log{
     flex: 1;
 }
+header a {
+    text-decoration: none;
+}
 
 header nav ul {
     display: flex;
